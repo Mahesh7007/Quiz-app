@@ -1,2 +1,2 @@
 # Quiz-app
-## This is a basic quiz application 
+### This is a basic quiz application 
